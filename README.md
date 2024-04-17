@@ -17,4 +17,4 @@ My name is Finn Döbele and I'm currently studying computer science at ETHZ!
 
 ## How to Reach Me 📫
 <a href="mailto:finn.doebele@bluewin.ch">![finn.doebele@bluewin.ch](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/finn-döbele-741071294/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
