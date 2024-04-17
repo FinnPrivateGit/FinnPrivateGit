@@ -10,7 +10,8 @@ My name is Finn Döbele and I'm currently studying computer science at ETHZ!
 <b><em>GitHub Stats:</em></b> <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FinnPrivateGit" alt="GitHub Stats" /> <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnPrivateGit&layout=compact)
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FinnPrivateGit" alt="WakaTime" />
 
 ## About Me 🙋‍♂️
 - I like skiing, climbing, rowing, hiking/mountaineering (outdoor lover)
