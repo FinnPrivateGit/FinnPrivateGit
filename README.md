@@ -7,7 +7,10 @@ My name is Finn Döbele and I'm currently studying computer science at ETHZ!
 - Interactive computer background app
 
 ## Stats 📈
-![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinnPrivateGit&show_icons=true&theme=radical)
+<b><em>GitHub Stats:</em></b> <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FinnPrivateGit" alt="GitHub Stats" /> <br/><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnPrivateGit&layout=compact)
 
 ## About Me 🙋‍♂️
 - I like skiing, climbing, rowing, hiking/mountaineering (outdoor lover)
@@ -15,5 +18,5 @@ My name is Finn Döbele and I'm currently studying computer science at ETHZ!
 - I live in Zurich for my studies
 
 ## How to Reach Me 📫
-- Mail: [finn.doebele@bluewin.ch](mailto:finn.doebele@bluewin.ch)
-- LinkedIn: [Finn Döbele](https://www.linkedin.com/in/Finn Döbele)
+<a href="mailto:finn.doebele@bluewin.ch">![finn.doebele@bluewin.ch](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/finn-d%C3%B6bele-741071294/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
